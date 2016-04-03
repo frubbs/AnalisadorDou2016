@@ -1,0 +1,63 @@
+<component name="ArtifactManager">
+  <artifact name="DouTextConverter:jar">
+    <output-path>$PROJECT_DIR$/classes/artifacts/DouTextConverter_jar</output-path>
+    <root id="root">
+      <element id="archive" name="DouDownloader.jar">
+        <element id="directory" name="META-INF">
+          <element id="file-copy" path="$PROJECT_DIR$/src/main/resources/TextConverter/META-INF/MANIFEST.MF" />
+        </element>
+        <element id="module-output" name="DouDownloader" />
+      </element>
+      <element id="library" level="module" name="fontbox.jar" module-name="DouDownloader" />
+      <element id="library" level="module" name="junit.jar" module-name="DouDownloader" />
+      <element id="library" level="module" name="poi.jar" module-name="DouDownloader" />
+      <element id="library" level="module" name="commons-codec.jar" module-name="DouDownloader" />
+      <element id="library" level="module" name="bcmail-jdk15.jar" module-name="DouDownloader" />
+      <element id="library" level="module" name="tika-parsers.jar" module-name="DouDownloader" />
+      <element id="library" level="module" name="apache-mime4j-dom.jar" module-name="DouDownloader" />
+      <element id="library" level="module" name="java-getopt.jar" module-name="DouDownloader" />
+      <element id="library" level="project" name="Maven: com.itextpdf:itextpdf:5.5.9" />
+      <element id="library" level="module" name="stax2-api.jar" module-name="DouDownloader" />
+      <element id="library" level="module" name="poi-ooxml-schemas.jar" module-name="DouDownloader" />
+      <element id="library" level="module" name="spring-beans.jar" module-name="DouDownloader" />
+      <element id="library" level="module" name="jaxen.jar" module-name="DouDownloader" />
+      <element id="library" level="module" name="poi-scratchpad.jar" module-name="DouDownloader" />
+      <element id="library" level="module" name="xercesImpl.jar" module-name="DouDownloader" />
+      <element id="library" level="module" name="dom4j.jar" module-name="DouDownloader" />
+      <element id="library" level="module" name="gate-compiler-jdt.jar" module-name="DouDownloader" />
+      <element id="library" level="module" name="itextpdf-5.4.0.jar" module-name="DouDownloader" />
+      <element id="library" level="module" name="lucene-core.jar" module-name="DouDownloader" />
+      <element id="library" level="module" name="xpp3.jar" module-name="DouDownloader" />
+      <element id="library" level="module" name="apache-mime4j-core.jar" module-name="DouDownloader" />
+      <element id="library" level="module" name="aopalliance.jar" module-name="DouDownloader" />
+      <element id="library" level="module" name="ant.jar" module-name="DouDownloader" />
+      <element id="library" level="module" name="xmlbeans.jar" module-name="DouDownloader" />
+      <element id="library" level="module" name="bcprov-jdk15.jar" module-name="DouDownloader" />
+      <element id="library" level="module" name="tika-core.jar" module-name="DouDownloader" />
+      <element id="library" level="module" name="nekohtml.jar" module-name="DouDownloader" />
+      <element id="library" level="module" name="commons-logging.jar" module-name="DouDownloader" />
+      <element id="library" level="module" name="woodstox-core-lgpl.jar" module-name="DouDownloader" />
+      <element id="library" level="module" name="log4j.jar" module-name="DouDownloader" />
+      <element id="library" level="module" name="xmlunit.jar" module-name="DouDownloader" />
+      <element id="library" level="module" name="metadata-extractor.jar" module-name="DouDownloader" />
+      <element id="library" level="module" name="spring-aop.jar" module-name="DouDownloader" />
+      <element id="library" level="module" name="poi-ooxml.jar" module-name="DouDownloader" />
+      <element id="library" level="project" name="Maven: commons-io:commons-io:2.4" />
+      <element id="library" level="module" name="flying-saucer-core.jar" module-name="DouDownloader" />
+      <element id="library" level="module" name="spring-core.jar" module-name="DouDownloader" />
+      <element id="library" level="module" name="itext-xtra-5.4.0.jar" module-name="DouDownloader" />
+      <element id="library" level="module" name="jdom.jar" module-name="DouDownloader" />
+      <element id="library" level="module" name="commons-io.jar" module-name="DouDownloader" />
+      <element id="library" level="module" name="jempbox.jar" module-name="DouDownloader" />
+      <element id="library" level="module" name="commons-lang.jar" module-name="DouDownloader" />
+      <element id="library" level="module" name="itext-pdfa-5.4.0.jar" module-name="DouDownloader" />
+      <element id="library" level="module" name="gate-asm.jar" module-name="DouDownloader" />
+      <element id="library" level="module" name="pdfbox.jar" module-name="DouDownloader" />
+      <element id="library" level="module" name="ant-launcher.jar" module-name="DouDownloader" />
+      <element id="library" level="module" name="ivy.jar" module-name="DouDownloader" />
+      <element id="library" level="module" name="gate.jar" module-name="DouDownloader" />
+      <element id="library" level="module" name="xstream.jar" module-name="DouDownloader" />
+      <element id="library" level="module" name="commons-compress.jar" module-name="DouDownloader" />
+    </root>
+  </artifact>
+</component>
